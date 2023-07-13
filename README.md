@@ -1,45 +1,31 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: PD<br>
 
 ## Alunos
-|Matrícula | Aluno |
+| Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0014032  | Guilherme Rogelin Vial |
+| 19/0033088  | Lucas Braun Vieira Xavier |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## [Link pro Vídeo]()
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Sobre
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Exercícios do Codeforces e do AtCoder resolvidos que utilizam algoritmos de Programação Dinâmica.
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+[1843D - Apple Tree](https://codeforces.com/problemset/problem/1843/D)
+![1843D](img/1843_D.png)
+*[Link para submissão](https://codeforces.com/contest/1843/submission/213181318)*
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+[abc303_d - Shift vs. CapsLock](https://atcoder.jp/contests/abc303/tasks/abc303_d)
+![768B](img/abc303_d.png)
+*[Link para submissão](https://atcoder.jp/contests/abc303/submissions/43466759)*
 
+[abc306_d - Poisonous Full-Course](https://atcoder.jp/contests/abc306/tasks/abc306_d)
+![1461D](img/abc306_d.png)
+*[Link para submissão](https://atcoder.jp/contests/abc306/submissions/43467805)*
 
+## Instalação e execução
 
-
+Basta compilar os códigos em C++ e rodar.
