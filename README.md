@@ -8,8 +8,6 @@
 | 19/0014032  | Guilherme Rogelin Vial |
 | 19/0033088  | Lucas Braun Vieira Xavier |
 
-## [Link pro Vídeo]()
-
 ## Sobre
 
 Exercícios do Codeforces e do AtCoder resolvidos que utilizam algoritmos de Programação Dinâmica.
